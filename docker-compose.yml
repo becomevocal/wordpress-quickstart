@@ -11,8 +11,8 @@ services:
   wordpress:
     image: 'yardenshoham/wordpress-quickstart'
     ports:
-      - '80:8080'
-      - '443:8443'
+      - '8080:8080'
+      - '8443:8443'
     volumes:
       - 'wordpress_data:/bitnami/wordpress'
     depends_on:

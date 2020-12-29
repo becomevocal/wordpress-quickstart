@@ -18,6 +18,6 @@ Spin up Wordpress with the BigCommerce plugin
 
 ## Enjoy
 
-Go to http://localhost/wp-admin/edit.php?post_type=bigcommerce_product&page=bigcommerce_welcome
+Go to http://localhost:8080/wp-admin/edit.php?post_type=bigcommerce_product&page=bigcommerce_welcome
 
 Login with the username `user`, password `bigcommerce` and have fun!
